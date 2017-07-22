@@ -15,12 +15,12 @@ namespace jsonDotNetTest
             string xml = @"<?xml version=""1.0"" standalone=""no""?>
 <root>
   <person id=""1"">
-  <name>Alan</name>
-  <url>http://www.google.com</url>
+  <name>Kobe</name>
+  <url>https://nba.hupu.com/players/kobebryant-151.html</url>
   </person>
   <person id=""2"">
-  <name>Louis</name>
-  <url>http://www.yahoo.com</url>
+  <name>Jordan</name>
+  <url>https://nba.hupu.com/players/michaeljordan-4087.html</url>
   </person>
 </root>";
 
